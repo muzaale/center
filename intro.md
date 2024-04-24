@@ -8,7 +8,7 @@ Apple, Google, and Meta are outright rivals of Microsoft, but they do use GitHub
 
 Because this research pearl is in the spirit of **Open Science**, I wish to emphasize the point that GitHub represents `cross-industry standardization` in all matters "open."
 
-When Meta launched a most powerful LLM called Llama3 a few day ago, which its marketing as an open source AI, it appropriately created a [GitHub repository](https://github.com/meta-llama/llama3) with all necessary data, code, parameters and documentation for the public to review. Any updates to this repo are visible to you. 
+When Meta launched a most powerful LLM called Llama3 a few day ago, which its marketing as an open source AI, it appropriately created a [GitHub repository](https://github.com/meta-llama/llama3) with all necessary data, code, parameters, inferences, updates, and documentation for the public to review.  
 
 With rival tech titans finding this platform useful, the question to the clinical and public health research community is this: are you missing out on something big?
 
