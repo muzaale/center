@@ -1,0 +1,5 @@
+- 50% Jupyter
+- 20% HTML
+- 15% CSS
+- 14% JAVA
+- 1% TeX
