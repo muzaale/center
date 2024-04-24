@@ -1,4 +1,4 @@
-# GitHub & Stata
+# Open Science
 
 **GPT-4:** GitHub is a powerful platform for collaborative software development, enabling researchers to manage, share, and refine codebases with version control and peer review capabilities.
 
